@@ -1,0 +1,23 @@
+{
+  "name": "social-network",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tai106/social-network.git"
+  },
+  "author": "Taivon Edwards",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tai106/social-network/issues"
+  },
+  "homepage": "https://github.com/Tai106/social-network#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.3.3"
+  }
+}
