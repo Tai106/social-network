@@ -13,12 +13,12 @@
 * Express.js
 
 # Installation
-* Install npm: npm init -y
-* Install express: npm i express
-* Install mongoose: npm i mongoose
+* Install npm: `npm init -y`
+* Install express: `npm i express`
+* Install mongoose: `npm i mongoose`
 
 # Usage
-*Open Insomnia and test API POST,PUT,GET, and DELETE routes for thoughts.
+* Open Insomnia and test API POST,PUT,GET, and DELETE routes for thoughts.
 
 
 # Screenshots
